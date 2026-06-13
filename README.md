@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sukhmandeep Singh Boparai 👋
 
-<!--
-**Sukhmandeep-Singh-Boparai/Sukhmandeep-Singh-Boparai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Cloud & DevOps Engineer
 
-Here are some ideas to get you started:
+## About Me
+- 🌩️ Learning Cloud Computing & DevOps
+- 🐧 Working with Linux and Bash
+- ☁️ Exploring AWS
+- 🐳 Learning Docker & Kubernetes
+- 🔄 Building CI/CD pipelines
+- 🏗️ Exploring Terraform and Infrastructure as Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Linux
+- AWS
+- Docker
+- Kubernetes
+- Terraform
+- Git & GitHub
+- Python
+- Bash Scripting
+
+## Current Goal
+Build real-world cloud and DevOps projects while preparing for a career in Cloud Engineering and DevOps.
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/sukhmandeep-singh-06831b296/
+- Portfolio: https://portfolio-three-lilac-4clvi1023u.vercel.app/
