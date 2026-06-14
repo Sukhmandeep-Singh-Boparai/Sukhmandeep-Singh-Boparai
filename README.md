@@ -13,9 +13,6 @@
 ## Tech Stack
 - Linux
 - AWS
-- Docker
-- Kubernetes
-- Terraform
 - Git & GitHub
 - Python
 - Bash Scripting
