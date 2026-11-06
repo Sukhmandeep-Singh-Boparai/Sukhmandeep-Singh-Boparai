@@ -22,4 +22,4 @@ Build real-world cloud and DevOps projects while preparing for a career in Cloud
 
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/sukhmandeep-singh-06831b296/
-- Portfolio: https://portfolio-three-lilac-4clvi1023u.vercel.app/
+- Portfolio: https://devsukhman.xyz/
